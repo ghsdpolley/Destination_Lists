@@ -1,6 +1,7 @@
+############################################################################
 #  Last Update: 11/11/2020
 #  Mirror:  https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
-
+############################################################################
 #This is a list of long-lived, "immortal", malware domains
 wittyvideos.com
 woo-gie.com
