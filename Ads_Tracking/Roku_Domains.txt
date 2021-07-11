@@ -23,6 +23,7 @@ hereford.logs.roku.com
 i.ads.roku.com
 identity-dev.ads.roku.com
 identity.ads.roku.com
+info.advertising.roku.com
 lagrange.logs.roku.com
 liberty.logs.roku.com
 littlefield.logs.roku.com
