@@ -1,5 +1,5 @@
-device-metrics-us-2.amazon.com
-api.amazonalexa.com
+*.amazon-adsystem.com
+*.telemetry.insights.video.a2z.com
 alexa.amazon.ca
 alexa.amazon.co.jp
 alexa.amazon.co.uk
@@ -7,6 +7,7 @@ alexa.amazon.com
 alexa.amazon.it
 alexa.na.gateway.devices.a2z.com
 amazonalexa.com
+api.amazonalexa.com
 avs-alexa-1-eu.amazon.com
 avs-alexa-10-eu.amazon.com
 avs-alexa-10-na.amazon.com
@@ -48,7 +49,19 @@ avs-alexa-9-eu.amazon.com
 avs-alexa-9-na.amazon.com
 bob-dispatch-prod-eu.amazon.com
 bob-dispatch-prod-na.amazon.com
+cde-ta-g7g.amazon.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
 latinum-eu.amazon.com
 layla.amazon.com
 layla.amazon.de
+mas-sdk.amazon.com
+mobile-app-expan.amazon.com
 pitangui.amazon.com
+shs.amazonalexa.com
+spectrum.s3.amazonaws.com
+unagi.amazon.ca
+unagi-na.amazon.com
+unagi.amazon.com.mx
+us-east-1.telemetry.insights.video.a2z.com
+windowsphishingalert158.s3.amazonaws.com
