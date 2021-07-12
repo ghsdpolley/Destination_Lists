@@ -8,6 +8,8 @@ analytics.spotify.com
 anycast.pixel.adsafeprotected.com
 apresolve.spotify.com
 audio-ec.spotify.com
+audio-fa.scdn.co
+audio-fa.spotify.com
 audio2.spotify.com
 b.scorecardresearch.com
 beta.spotify.map.fastly.net
@@ -22,16 +24,17 @@ cs283.wpc.teliasoneracdn.net
 d2gi7ultltnc2u.cloudfront.net
 d361oi6ppvq2ym.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
+delivery-cdn-cf.adswizz.com
 desktop.spotify.com
 ds.serving-sys.com
 gads.pubmatic.com
+gcdn.2mdn.net
 geo3.ggpht.com
 googleads.g.doubleclick.net
 googlehosted.l.googleusercontent.com
 gtssl2-ocsp.geotrust.com
 heads-ec.spotify.com
 heads-fa.spotify.com
-http://audio2.spotify.com
 idsync-ext.rlcdn.com
 log.spotify.com
 media-match.com
