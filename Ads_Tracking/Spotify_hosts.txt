@@ -8,6 +8,8 @@
 127.0.0.1 anycast.pixel.adsafeprotected.com
 127.0.0.1 apresolve.spotify.com
 127.0.0.1 audio-ec.spotify.com
+127.0.0.1 audio-fa.scdn.co
+127.0.0.1 audio-fa.spotify.com
 127.0.0.1 audio2.spotify.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 beta.spotify.map.fastly.net
@@ -22,9 +24,11 @@
 127.0.0.1 d2gi7ultltnc2u.cloudfront.net
 127.0.0.1 d361oi6ppvq2ym.cloudfront.net
 127.0.0.1 d3rt1990lpmkn.cloudfront.net
+127.0.0.1 delivery-cdn-cf.adswizz.com
 127.0.0.1 desktop.spotify.com
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 gads.pubmatic.com
+127.0.0.1 gcdn.2mdn.net
 127.0.0.1 geo3.ggpht.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googlehosted.l.googleusercontent.com
