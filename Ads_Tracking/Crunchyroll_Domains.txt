@@ -7,3 +7,5 @@ pi.ispot.tv
 media.statsmgr.com
 live.spotxchange.com
 s.update.mediamathtag.com
+s.update.rose.pubmatic.com
+hb-z4ak.raps.ravm.tv
