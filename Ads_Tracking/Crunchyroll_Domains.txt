@@ -2,3 +2,4 @@ log.v.ssp.yahoo.com
 prebid-log.getpublica.com
 a-iad.1rx.io
 platform.rtbiq.com
+siriusxm.hrzn-nxt.com
