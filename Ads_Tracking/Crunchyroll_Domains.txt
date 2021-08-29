@@ -4,3 +4,6 @@ a-iad.1rx.io
 platform.rtbiq.com
 siriusxm.hrzn-nxt.com
 pi.ispot.tv
+media.statsmgr.com
+live.spotxchange.com
+s.update.mediamathtag.com
