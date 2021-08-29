@@ -13,3 +13,4 @@ presentation-atl1.turn.com
 aa.agkn.com
 ad-events.flashtalking.com
 slingtv.hrzn-nxt.com
+*.hrzn-nxt.com
