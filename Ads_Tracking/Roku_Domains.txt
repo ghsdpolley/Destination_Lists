@@ -2,6 +2,8 @@ ads.roku.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
+api.sr.roku.com
+api2.sr.roku.com
 assets.sr.roku.com
 austin.logs.roku.com
 authentication.mgo.com
@@ -9,6 +11,8 @@ bryan.logs.roku.com
 c-catalog.mgo-images.com
 c-ls.mgo-images.com
 camden.logs.roku.com
+captive.roku.com
+cigars.roku.com
 cloudservices.roku.com
 cooper.logs.roku.com
 customer-feedbacks.web.roku.com
@@ -31,6 +35,7 @@ logs.roku.com
 longview.logs.roku.com
 midland.logs.roku.com
 mobile.logs.roku.com
+navigation.sr.roku.com
 os.fandango.com
 p.ads.roku.com
 paolo.logs.roku.com
@@ -39,6 +44,7 @@ raps-perf.ravm.tv
 raps.ravm.tv
 ravm.tv
 richmond.logs.roku.com
+roku.adsmeasurement.com
 rollingwood.logs.roku.com
 rxr.ravm.tv
 samples.voice.cti.roku.com
