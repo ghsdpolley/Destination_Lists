@@ -2,6 +2,8 @@
 127.0.0.1 amarillo.logs.roku.com
 127.0.0.1 amoeba-plus.web.roku.com
 127.0.0.1 amoeba.web.roku.com
+127.0.0.1 api.sr.roku.com
+127.0.0.1 api2.sr.roku.com
 127.0.0.1 assets.sr.roku.com
 127.0.0.1 austin.logs.roku.com
 127.0.0.1 authentication.mgo.com
@@ -9,6 +11,8 @@
 127.0.0.1 c-catalog.mgo-images.com
 127.0.0.1 c-ls.mgo-images.com
 127.0.0.1 camden.logs.roku.com
+127.0.0.1 captive.roku.com
+127.0.0.1 cigars.roku.com
 127.0.0.1 cloudservices.roku.com
 127.0.0.1 cooper.logs.roku.com
 127.0.0.1 customer-feedbacks.web.roku.com
@@ -30,6 +34,7 @@
 127.0.0.1 longview.logs.roku.com
 127.0.0.1 midland.logs.roku.com
 127.0.0.1 mobile.logs.roku.com
+127.0.0.1 navigation.sr.roku.com
 127.0.0.1 os.fandango.com
 127.0.0.1 p.ads.roku.com
 127.0.0.1 paolo.logs.roku.com
@@ -38,6 +43,7 @@
 127.0.0.1 raps.ravm.tv
 127.0.0.1 ravm.tv
 127.0.0.1 richmond.logs.roku.com
+127.0.0.1 roku.adsmeasurement.com
 127.0.0.1 rollingwood.logs.roku.com
 127.0.0.1 rxr.ravm.tv
 127.0.0.1 samples.voice.cti.roku.com
