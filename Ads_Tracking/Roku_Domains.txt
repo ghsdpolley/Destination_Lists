@@ -10,7 +10,6 @@ c-catalog.mgo-images.com
 c-ls.mgo-images.com
 camden.logs.roku.com
 captive.roku.com
-cigars.roku.com
 cloudservices.roku.com
 cooper.logs.roku.com
 customer-feedbacks.web.roku.com
