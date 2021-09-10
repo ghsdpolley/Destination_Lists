@@ -2,8 +2,6 @@ ads.roku.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
-api.sr.roku.com
-api2.sr.roku.com
 assets.sr.roku.com
 austin.logs.roku.com
 authentication.mgo.com
