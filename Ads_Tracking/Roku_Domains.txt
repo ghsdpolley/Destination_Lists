@@ -13,6 +13,7 @@ c-ls.mgo-images.com
 camden.logs.roku.com
 captive.roku.com
 cloudservices.roku.com
+configsvc.cs.roku.com
 cooper.logs.roku.com
 customer-feedbacks.web.roku.com
 delta-staging.ads.roku.com
