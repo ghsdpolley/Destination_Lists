@@ -3,6 +3,7 @@ adultswim.hb.omtrdc.net
 analytics.adultswim.co.uk
 lightning.adultswim.com
 report.primetime.adobe.com
+s.adex2.fwmrm.net
 sanalytics.adultswim.co.uk
 sstats.adultswim.com
 stats.adultswim.com
