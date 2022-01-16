@@ -3,7 +3,6 @@ adultswim.hb.omtrdc.net
 analytics.adultswim.co.uk
 events.mountain.com
 lightning.adultswim.com
-primetime-a.akamaihd.net
 report.primetime.adobe.com
 s.adex2.fwmrm.net
 sanalytics.adultswim.co.uk
