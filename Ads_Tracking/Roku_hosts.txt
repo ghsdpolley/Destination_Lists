@@ -39,6 +39,7 @@
 127.0.0.1 liberty.logs.roku.com
 127.0.0.1 littlefield.logs.roku.com
 127.0.0.1 logs.roku.com
+127.0.0.1 longview.ib.roku.com
 127.0.0.1 longview.logs.roku.com
 127.0.0.1 madison.logs.roku.com
 127.0.0.1 marlin.logs.roku.com
