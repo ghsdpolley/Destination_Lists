@@ -37,6 +37,7 @@ lagrange.logs.roku.com
 liberty.logs.roku.com
 littlefield.logs.roku.com
 logs.roku.com
+longview.ib.roku.com
 longview.logs.roku.com
 madison.logs.roku.com
 marlin.logs.roku.com
