@@ -1,6 +1,7 @@
 adultswim.d2.hb.omtrdc.net
 adultswim.hb.omtrdc.net
 analytics.adultswim.co.uk
+lightning.adultswim.com
 sanalytics.adultswim.co.uk
 sstats.adultswim.com
 stats.adultswim.com
