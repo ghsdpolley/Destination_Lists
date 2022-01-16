@@ -35,6 +35,7 @@
 127.0.0.1 identity-internal-dev.ads.roku.com
 127.0.0.1 identity-internal.ads.roku.com
 127.0.0.1 identity.ads.roku.com
+127.0.0.1 images.sr.roku.com
 127.0.0.1 lagrange.logs.roku.com
 127.0.0.1 liberty.logs.roku.com
 127.0.0.1 littlefield.logs.roku.com
