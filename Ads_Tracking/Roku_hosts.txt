@@ -28,6 +28,7 @@
 127.0.0.1 giga.logs.roku.com
 127.0.0.1 gilbert.logs.roku.com
 127.0.0.1 griffin.logs.roku.com
+127.0.0.1 hb-e8zk.raps.ravm.tv
 127.0.0.1 hereford.logs.roku.com
 127.0.0.1 i.ads.roku.com
 127.0.0.1 identity-dev.ads.roku.com
@@ -43,7 +44,6 @@
 127.0.0.1 marlin.logs.roku.com
 127.0.0.1 midland.logs.roku.com
 127.0.0.1 mobile.logs.roku.com
-127.0.0.1 navigation.sr.roku.com
 127.0.0.1 os.fandango.com
 127.0.0.1 p.ads.roku.com
 127.0.0.1 paolo.logs.roku.com
