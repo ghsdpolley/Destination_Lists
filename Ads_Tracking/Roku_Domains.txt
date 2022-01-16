@@ -25,6 +25,7 @@ external.logs.roku.com
 giga.logs.roku.com
 gilbert.logs.roku.com
 griffin.logs.roku.com
+hb-e8zk.raps.ravm.tv
 hereford.logs.roku.com
 i.ads.roku.com
 identity-dev.ads.roku.com
