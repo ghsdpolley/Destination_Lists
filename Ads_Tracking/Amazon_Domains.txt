@@ -52,6 +52,7 @@ bob-dispatch-prod-na.amazon.com
 cde-ta-g7g.amazon.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
+ipv6.unagi-na.amazon.com
 latinum-eu.amazon.com
 layla.amazon.com
 layla.amazon.de
