@@ -1,4 +1,0 @@
-127.0.0.1 analytics-ingestion.production-public.tubi.io
-127.0.0.1 lb.production-public.tubi.io
-127.0.0.1 production-public.tubi.io
-127.0.0.1 rainmaker.production-public.tubi.io
