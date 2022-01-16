@@ -32,6 +32,7 @@ identity-dev.ads.roku.com
 identity-internal-dev.ads.roku.com
 identity-internal.ads.roku.com
 identity.ads.roku.com
+images.sr.roku.com
 info.advertising.roku.com
 lagrange.logs.roku.com
 liberty.logs.roku.com
