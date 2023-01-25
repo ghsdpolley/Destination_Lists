@@ -35,7 +35,9 @@ identity-internal.ads.roku.com
 identity.ads.roku.com
 images.sr.roku.com
 info.advertising.roku.com
+keysvc.cs.roku.com
 lagrange.logs.roku.com
+lat-services.api.data.roku.com
 liberty.logs.roku.com
 littlefield.logs.roku.com
 logs.roku.com
@@ -59,6 +61,7 @@ rxr.ravm.tv
 samples.voice.cti.roku.com
 scribe.logs.roku.com
 sugarland.logs.roku.com
+tis.cti.roku.com
 traces.sr.roku.com
 track.sr.roku.com
 tyler.logs.roku.com
