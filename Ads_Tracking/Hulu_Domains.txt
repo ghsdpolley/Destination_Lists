@@ -14,6 +14,8 @@ api.distrubution.hulu.com
 cws-hulu.conviva.com
 doppler.hulu.com
 hulu.112.2o7.net
+hulu-ios.hb-api.omtrdc.net
+hulu-lr.hb-api.omtrdc.net
 hulu.hb-api.omtrdc.net
 hulu.hb.omtrdc.net
 huludev.112.2o7.net
