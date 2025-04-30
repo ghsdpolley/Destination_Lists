@@ -1,2 +1,24 @@
 ## Draft creation 04/29/2025 to be tested soon.
+*.cws-hulu.conviva.com
+a.huluad.com
+ads-a-darwin.hulu.com
+ads-a-darwin.hulustream.com
+ads-e-darwin.hulu.com
+ads-e-darwin.hulustream.com
+ads-v-darwin.hulu.com
+ads-v-darwin.hulustream.com
 ads.hulu.com
+ads.hulu.com.edgesuite.net
+api.distrubution.hulu.com
+cws-hulu.conviva.com
+hulu.112.2o7.net
+hulu.hb-api.omtrdc.net
+huludev.112.2o7.net
+ll.a.hulu.com
+mtsnu-miftahululum.sch.id
+t-ak.hulu.com
+t2.hulu.com
+t2.huluim.com
+tw.i.hulu.com
+urlcheck.hulu.com
+vortex.hulu.com
