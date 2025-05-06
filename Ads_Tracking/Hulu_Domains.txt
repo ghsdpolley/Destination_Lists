@@ -26,6 +26,7 @@ huludev.112.2o7.net
 ll.a.hulu.com
 metcon.hulu.com
 mtsnu-miftahululum.sch.id
+pn.ybp.yahoo.com
 presentation-pdx1.turn.com
 t-ak.hulu.com
 t2.hulu.com
