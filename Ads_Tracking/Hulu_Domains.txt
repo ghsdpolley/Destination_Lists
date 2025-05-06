@@ -1,5 +1,6 @@
 ## Draft creation 04/29/2025 to be tested soon.
 *.cws-hulu.conviva.com
+*.cws.conviva.com
 a.huluad.com
 ads-a-darwin.hulu.com
 ads-a-darwin.hulustream.com
@@ -12,6 +13,7 @@ ads.hulu.com
 ads.hulu.com.edgesuite.net
 api.distrubution.hulu.com
 cws-hulu.conviva.com
+cws.conviva.com
 doppler.hulu.com
 hulu.112.2o7.net
 hulu-ios.hb-api.omtrdc.net
