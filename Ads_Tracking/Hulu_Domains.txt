@@ -11,7 +11,9 @@ ads-v-darwin.hulu.com.c.footprint.net
 ads-v-darwin.hulustream.com
 ads.hulu.com
 ads.hulu.com.edgesuite.net
+api.abcsinsights.com
 api.distrubution.hulu.com
+collector-29439.us.tvsquared.com
 cws-hulu.conviva.com
 cws.conviva.com
 doppler.hulu.com
