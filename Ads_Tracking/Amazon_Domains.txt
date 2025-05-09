@@ -81,6 +81,7 @@ pitangui.amazon.com
 shs.amazonalexa.com
 spectrum.s3.amazonaws.com
 unagi.amazon.ca
+unagi.amazon.com
 unagi-na.amazon.com
 unagi.amazon.com.mx
 us-east-1.telemetry.insights.video.a2z.com
